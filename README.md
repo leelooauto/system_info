@@ -89,7 +89,9 @@ python3 system_info.py
 ```
 
 9. Create service to autostart the script at boot  
-```sudo cp system_info.service /etc/systemd/system/system_info.service```  
-```sudo systemctl enable system_info.service```  
-```sudo systemctl start system_info.service```  
+```
+sudo cp system_info.service /etc/systemd/system/system_info.service
+sudo systemctl enable system_info.service
+sudo systemctl start system_info.service
+```  
 
