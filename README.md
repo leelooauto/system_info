@@ -1,5 +1,7 @@
 # RPI System Info
 
+Originl project by [SliderBOR](https://www.thingiverse.com/sliderbor/designs) on [Thingaverse](https://www.thingiverse.com/thing:3022136)
+
 ## system info Features
 - OLED info screen with IP address, host, CPU & Memory utilization
 - Button for OLED, reboot and shutdown
