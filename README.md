@@ -51,7 +51,7 @@ You may use any other 3 mm LED, but maybe you have to use another resistor inste
 
 
 ## Python Script
-1. SHH to Pi
+1. SSH to Pi
 2. Enable i2c and spi using raspi-config:
 ```
 sudo raspi-config
@@ -88,8 +88,8 @@ sudo chmod 755 system_info.py
 python3 system_info.py
 ```
 
-9. Create service to autostart the script at boot
-```sudo cp system_info.service /etc/systemd/system/system_info.service```
-```sudo systemctl enable system_info.service```
-```sudo systemctl start system_info.service```
+9. Create service to autostart the script at boot  
+```sudo cp system_info.service /etc/systemd/system/system_info.service```  
+```sudo systemctl enable system_info.service```  
+```sudo systemctl start system_info.service```  
 
