@@ -35,7 +35,7 @@ After the Raspberry Pi is shut down, it can be switched off (only the power indi
 - Push button:
   - https://www.aliexpress.com/item/100PCS-6X6x7mm-4PIN-dip-TACT-push-button-switch-Micro-key-power-tactile-switches-6x6x7-6-6/32854062885.html
 - Push button cap:
-  -- https://www.aliexpress.com/item/20pcs-lot-Tactile-Button-Caps-Plastic-Cap-Hat-for-6-6mm-Tactile-Push-Button-Switch-Lid/32865759745.html
+  - https://www.aliexpress.com/item/20pcs-lot-Tactile-Button-Caps-Plastic-Cap-Hat-for-6-6mm-Tactile-Push-Button-Switch-Lid/32865759745.html
 - 3 mm low current LED:
   - https://m.reichelt.de/led-3-mm-bedrahtet-gruen-3-2-mcd-60-led-3mm-2ma-gn-p21624.html
 - PCB:
