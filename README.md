@@ -1,14 +1,5 @@
 # RPI System Info
 
-[![GitHub Release][releases-shield]][releases]
-[![License][license-shield]](LICENSE.md)
-
-![Project Maintenance][maintenance-shield]
-[![GitHub Activity][commits-shield]][commits]
-
-[![Community Forum][forum-shield]][forum]
-
-
 ## system info Features
 - OLED info screen with IP address, host, CPU & Memory utilization
 - Button for OLED, reboot and shutdown
