@@ -31,21 +31,21 @@ After the Raspberry Pi is shut down, it can be switched off (only the power indi
 
 ### Links (examples only)
 - OLED:
-https://www.aliexpress.com/item/1pcs-0-91-inch-OLED-module-0-91-white-OLED-128X32-OLED-LCD-LED-Display-Module/32672229793.html
+  - https://www.aliexpress.com/item/1pcs-0-91-inch-OLED-module-0-91-white-OLED-128X32-OLED-LCD-LED-Display-Module/32672229793.html
 - Push button:
-https://www.aliexpress.com/item/100PCS-6X6x7mm-4PIN-dip-TACT-push-button-switch-Micro-key-power-tactile-switches-6x6x7-6-6/32854062885.html
+  - https://www.aliexpress.com/item/100PCS-6X6x7mm-4PIN-dip-TACT-push-button-switch-Micro-key-power-tactile-switches-6x6x7-6-6/32854062885.html
 - Push button cap:
-https://www.aliexpress.com/item/20pcs-lot-Tactile-Button-Caps-Plastic-Cap-Hat-for-6-6mm-Tactile-Push-Button-Switch-Lid/32865759745.html
+  -- https://www.aliexpress.com/item/20pcs-lot-Tactile-Button-Caps-Plastic-Cap-Hat-for-6-6mm-Tactile-Push-Button-Switch-Lid/32865759745.html
 - 3 mm low current LED:
-https://m.reichelt.de/led-3-mm-bedrahtet-gruen-3-2-mcd-60-led-3mm-2ma-gn-p21624.html
+  - https://m.reichelt.de/led-3-mm-bedrahtet-gruen-3-2-mcd-60-led-3mm-2ma-gn-p21624.html
 - PCB:
-https://www.aliexpress.com/item/Free-shipping-10Pcs-new-Prototype-Paper-Copper-PCB-Universal-Experiment-Matrix-Circuit-Board-5x7cm-Brand/32351499755.html
+  - https://www.aliexpress.com/item/Free-shipping-10Pcs-new-Prototype-Paper-Copper-PCB-Universal-Experiment-Matrix-Circuit-Board-5x7cm-Brand/32351499755.html
 - Jumper wire:
-https://www.aliexpress.com/item/40pcs-lot-10cm-40P-2-54mm-dupont-cable-jumper-wire-dupont-line-male-to-female-dupont/32674901253.html
+  - https://www.aliexpress.com/item/40pcs-lot-10cm-40P-2-54mm-dupont-cable-jumper-wire-dupont-line-male-to-female-dupont/32674901253.html
 - Miniature slide switch:
-https://www.aliexpress.com/item/10pcs-Mayitr-Black-SPDT-Switch-Micro-Toggle-Switch-ON-Off-Miniature-Slide-Switches-For-DIY-Small/32848360942.html
+  - https://www.aliexpress.com/item/10pcs-Mayitr-Black-SPDT-Switch-Micro-Toggle-Switch-ON-Off-Miniature-Slide-Switches-For-DIY-Small/32848360942.html
 - Pin header:
-https://www.aliexpress.com/item/10PCS-40Pin-1x40P-Male-Breakable-Pin-Header-Strip-2-54mm-Long-Blue-Red-White-Green-Yellow/32863408765.html
+  - https://www.aliexpress.com/item/10PCS-40Pin-1x40P-Male-Breakable-Pin-Header-Strip-2-54mm-Long-Blue-Red-White-Green-Yellow/32863408765.html
 
 You may use any other 3 mm LED, but maybe you have to use another resistor instead of the 1K resistor.
 
