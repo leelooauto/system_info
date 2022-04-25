@@ -87,10 +87,11 @@ sudo chmod 755 system_info.py
 python3 system_info.py
 ```
 
-9. Create service to autostart the script at boot  
+9. Autostart the script at boot  
 ```
-sudo cp system_info.service /etc/systemd/system/system_info.service
-sudo systemctl enable system_info.service
-sudo systemctl start system_info.service
-```  
-
+sudo nano /etc/rc.local
+```
+10. Add the following line above 'exit 0'  
+```
+sudo python3 /home/pi/system_info/system_info.py &
+```
