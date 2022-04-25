@@ -15,29 +15,28 @@
 After the Raspberry Pi is shut down, it can be switched off (only the power indicator LED on the board will remain turned on by hardware design). All other electrical components on the board are turned off (SoC, RAM etc.)
 
 
-## Material needed
-- 2x M2.5 screws (flat head)
+### Material needed
+- 3D print
+- 2x M2.5 screws
 - 2x M2.5 nuts
 - 128x32 OLED 0,91" SSD1306 blue or white (link below)
 - 1x Push button 6mm x 6mm x 7mm with cap (links below)
 - 1x 3 mm LED
 - 1x 10K resistor
-- 1x 1K resistor
+- 1x 330 resistor
 - 1x small piece of PCB 2,54mm hole pitch (link below)
 - 11x jumper wires (link below)
 - 1x Miniature slide switch (link below)
 - 1x Pin header male (2 pins) (link below)
 - Hot glue
 
-### Links (examples only)
+#### Links (examples only)
 - OLED:
   - https://www.aliexpress.com/item/1pcs-0-91-inch-OLED-module-0-91-white-OLED-128X32-OLED-LCD-LED-Display-Module/32672229793.html
 - Push button:
   - https://www.aliexpress.com/item/100PCS-6X6x7mm-4PIN-dip-TACT-push-button-switch-Micro-key-power-tactile-switches-6x6x7-6-6/32854062885.html
 - Push button cap:
   - https://www.aliexpress.com/item/20pcs-lot-Tactile-Button-Caps-Plastic-Cap-Hat-for-6-6mm-Tactile-Push-Button-Switch-Lid/32865759745.html
-- 3 mm low current LED:
-  - https://m.reichelt.de/led-3-mm-bedrahtet-gruen-3-2-mcd-60-led-3mm-2ma-gn-p21624.html
 - PCB:
   - https://www.aliexpress.com/item/Free-shipping-10Pcs-new-Prototype-Paper-Copper-PCB-Universal-Experiment-Matrix-Circuit-Board-5x7cm-Brand/32351499755.html
 - Jumper wire:
@@ -46,8 +45,6 @@ After the Raspberry Pi is shut down, it can be switched off (only the power indi
   - https://www.aliexpress.com/item/10pcs-Mayitr-Black-SPDT-Switch-Micro-Toggle-Switch-ON-Off-Miniature-Slide-Switches-For-DIY-Small/32848360942.html
 - Pin header:
   - https://www.aliexpress.com/item/10PCS-40Pin-1x40P-Male-Breakable-Pin-Header-Strip-2-54mm-Long-Blue-Red-White-Green-Yellow/32863408765.html
-
-You may use any other 3 mm LED, but maybe you have to use another resistor instead of the 1K resistor.
 
 
 ## Python Script
