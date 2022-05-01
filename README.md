@@ -64,7 +64,7 @@ sudo raspi-config
 sudo apt-get install python3-pip
 sudo pip3 install adafruit-circuitpython-ssd1306
 sudo apt-get install python3-pil
-sudo apt-get install -y python-smbus
+sudo apt-get install -y python3-smbus
 sudo apt-get install -y i2c-tools
 sudo pip3 install psutil
 ```
