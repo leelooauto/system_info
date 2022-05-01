@@ -56,8 +56,8 @@ After the Raspberry Pi is shut down, it can be switched off (only the power indi
 sudo raspi-config
 ```
   - Interfacing Options
-  - SPI
-  - I2C
+    - SPI
+    - I2C
 
 3. Install the adafruit libraries and other software requirements for the OLED script to work (maybe some of them are already installed)
 ```
