@@ -76,7 +76,7 @@ sudo i2cdetect -y 1
 You should see a device at address ```3c```
 
 5. Clone this repo >> git clone https://github.com/leelooauto/system_info.git
-6. cd system_sensors
+6. cd system_info
 7. Make file executable 
 ```
 sudo chmod 755 system_info.py
